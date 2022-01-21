@@ -1,0 +1,12 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries: []
+words:
+  - Liskov
+  - objdump
+  - bytecode
+  - Cardano
+  - preimage
+ignoreWords: []
+import: []

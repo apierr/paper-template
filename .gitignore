@@ -1,0 +1,14 @@
+main.pdf
+.DS_Store
+build
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.out
+*.spl
+__latexindent_temp.tex
